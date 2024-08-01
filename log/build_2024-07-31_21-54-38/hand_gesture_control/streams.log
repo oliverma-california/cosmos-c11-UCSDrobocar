@@ -1,0 +1,37 @@
+[3.349s] Invoking command in '/home/projects/ros2_ws/src/hand_gesture_control': PYTHONPATH=/home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/hand_gesture_control build --build-base /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/build install --prefix /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control --record /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/install.log --single-version-externally-managed
+[4.422s] running egg_info
+[4.424s] creating build/hand_gesture_control/hand_gesture_control.egg-info
+[4.425s] writing build/hand_gesture_control/hand_gesture_control.egg-info/PKG-INFO
+[4.426s] writing dependency_links to build/hand_gesture_control/hand_gesture_control.egg-info/dependency_links.txt
+[4.427s] writing entry points to build/hand_gesture_control/hand_gesture_control.egg-info/entry_points.txt
+[4.427s] writing requirements to build/hand_gesture_control/hand_gesture_control.egg-info/requires.txt
+[4.427s] writing top-level names to build/hand_gesture_control/hand_gesture_control.egg-info/top_level.txt
+[4.437s] writing manifest file 'build/hand_gesture_control/hand_gesture_control.egg-info/SOURCES.txt'
+[4.590s] reading manifest file 'build/hand_gesture_control/hand_gesture_control.egg-info/SOURCES.txt'
+[4.593s] writing manifest file 'build/hand_gesture_control/hand_gesture_control.egg-info/SOURCES.txt'
+[4.595s] running build
+[4.595s] running build_py
+[4.596s] creating /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/build
+[4.596s] creating /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/build/lib
+[4.596s] creating /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/build/lib/hand_gesture_control
+[4.597s] copying hand_gesture_control/__init__.py -> /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/build/lib/hand_gesture_control
+[4.597s] copying hand_gesture_control/hand_gesture_control_node.py -> /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/build/lib/hand_gesture_control
+[4.597s] running install
+[4.600s] running install_lib
+[4.603s] creating /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/lib/python3.8/site-packages/hand_gesture_control
+[4.604s] copying /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/build/lib/hand_gesture_control/__init__.py -> /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/lib/python3.8/site-packages/hand_gesture_control
+[4.604s] copying /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/build/lib/hand_gesture_control/hand_gesture_control_node.py -> /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/lib/python3.8/site-packages/hand_gesture_control
+[4.607s] byte-compiling /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/lib/python3.8/site-packages/hand_gesture_control/__init__.py to __init__.cpython-38.pyc
+[4.612s] byte-compiling /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/lib/python3.8/site-packages/hand_gesture_control/hand_gesture_control_node.py to hand_gesture_control_node.cpython-38.pyc
+[4.614s] running install_data
+[4.616s] creating /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/share/ament_index
+[4.617s] creating /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/share/ament_index/resource_index
+[4.617s] creating /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/share/ament_index/resource_index/packages
+[4.617s] copying resource/hand_gesture_control -> /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/share/ament_index/resource_index/packages
+[4.618s] copying package.xml -> /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/share/hand_gesture_control
+[4.618s] running install_egg_info
+[4.626s] Copying build/hand_gesture_control/hand_gesture_control.egg-info to /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/lib/python3.8/site-packages/hand_gesture_control-0.0.0-py3.8.egg-info
+[4.630s] running install_scripts
+[4.698s] Installing hand_gesture_control_node script to /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/lib/hand_gesture_control
+[4.699s] writing list of installed files to '/home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/install.log'
+[4.795s] Invoked command in '/home/projects/ros2_ws/src/hand_gesture_control' returned '0': PYTHONPATH=/home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/hand_gesture_control build --build-base /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/build install --prefix /home/projects/ros2_ws/src/hand_gesture_control/install/hand_gesture_control --record /home/projects/ros2_ws/src/hand_gesture_control/build/hand_gesture_control/install.log --single-version-externally-managed

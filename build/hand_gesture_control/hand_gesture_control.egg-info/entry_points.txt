@@ -1,0 +1,3 @@
+[console_scripts]
+hand_gesture_control_node = hand_gesture_control.hand_gesture_control_node:main
+
